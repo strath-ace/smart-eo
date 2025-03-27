@@ -1,0 +1,10 @@
+cartopy==0.24.1
+matplotlib==3.10.1
+numpy==2.2.4
+opencv_python==4.11.0.86
+pandas==2.2.3
+Pillow==11.1.0
+rasterio==1.4.3
+sentinelhub==3.11.1
+Shapely==2.0.7
+tqdm==4.67.0

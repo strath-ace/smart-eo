@@ -1,0 +1,551 @@
+{
+  "PERENCO OIL & GAS": {
+    "parent_company": "Perenco Pertroleum Ltd",
+    "private_equity_backing": "No",
+    "parent_company_hq": "Bahamas",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "88",
+    "total_north_sea_stake": "9.69%",
+    "equity_ranking": "1"
+  },
+  "HARBOUR ENERGY PLC": {
+    "parent_company": "Harbour Energy PLC",
+    "private_equity_backing": "Yes",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "114",
+    "total_north_sea_stake": "8.19%",
+    "equity_ranking": "2"
+  },
+  "SHELL PLC": {
+    "parent_company": "Shell PLC",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "113",
+    "total_north_sea_stake": "8.09%",
+    "equity_ranking": "3"
+  },
+  "TOTALENERGIES UPSTREAM UK LIMITED": {
+    "parent_company": "TotalEnergies SE",
+    "private_equity_backing": "Yes",
+    "parent_company_hq": "France",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "77",
+    "total_north_sea_stake": "6.43%",
+    "equity_ranking": "4"
+  },
+  "SPIRIT ENERGY": {
+    "parent_company": "Centrica PLC",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "64",
+    "total_north_sea_stake": "5.87%",
+    "equity_ranking": "5"
+  },
+  "REPSOL SINOPEC RESOURCES": {
+    "parent_company": "Repsol SA",
+    "private_equity_backing": "No",
+    "parent_company_hq": "Spain",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "59",
+    "total_north_sea_stake": "5.59%",
+    "equity_ranking": "6"
+  },
+  "BP EXPLORATION": {
+    "parent_company": "BP PLC",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "62",
+    "total_north_sea_stake": "5.35%",
+    "equity_ranking": "7"
+  },
+  "NEO ENERGY GROUP": {
+    "parent_company": "Neo Energy Group Ltd",
+    "private_equity_backing": "Yes",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "96",
+    "total_north_sea_stake": "5.18%",
+    "equity_ranking": "8"
+  },
+  "ITHACA ENERGY": {
+    "parent_company": "Delek Group Ltd",
+    "private_equity_backing": "Yes",
+    "parent_company_hq": "Israel",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "83",
+    "total_north_sea_stake": "4.48%",
+    "equity_ranking": "9"
+  },
+  "TAQA EUROPA B.V.": {
+    "parent_company": "Emirate of Abu Dhabi",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Arab Emirates",
+    "parent_company_type": "SOE",
+    "number_of_licenses": "33",
+    "total_north_sea_stake": "3.91%",
+    "equity_ranking": "10"
+  },
+  "EQUINOR ASA": {
+    "parent_company": "Norway, Kingdom Of (Government)",
+    "private_equity_backing": "No",
+    "parent_company_hq": "Norway",
+    "parent_company_type": "SOE",
+    "number_of_licenses": "34",
+    "total_north_sea_stake": "3.39%",
+    "equity_ranking": "11"
+  },
+  "ROCKROSE ENERGY": {
+    "parent_company": "Viaro Investment Ltd",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "76",
+    "total_north_sea_stake": "3.17%",
+    "equity_ranking": "12"
+  },
+  "APACHE CORPORATION": {
+    "parent_company": "APA Corp (US)",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United States of America",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "32",
+    "total_north_sea_stake": "2.93%",
+    "equity_ranking": "13"
+  },
+  "SERICA ENERGY": {
+    "parent_company": "Serica Energy PLC",
+    "private_equity_backing": "Yes",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "31",
+    "total_north_sea_stake": "2.92%",
+    "equity_ranking": "14"
+  },
+  "ENQUEST PLC": {
+    "parent_company": "EnQuest PLC",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "29",
+    "total_north_sea_stake": "2.11%",
+    "equity_ranking": "15"
+  },
+  "DANA PETROLEUM LIMITED": {
+    "parent_company": "Korea, Republic of (Government)",
+    "private_equity_backing": "No",
+    "parent_company_hq": "Korea",
+    "parent_company_type": "SOE",
+    "number_of_licenses": "28",
+    "total_north_sea_stake": "2.08%",
+    "equity_ranking": "16"
+  },
+  "ENI UK LIMITED": {
+    "parent_company": "Eni SpA",
+    "private_equity_backing": "No",
+    "parent_company_hq": "Italy",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "28",
+    "total_north_sea_stake": "1.99%",
+    "equity_ranking": "17"
+  },
+  "EXXONMOBIL INTERNATIONAL": {
+    "parent_company": "EXXON MOBIL CORP",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United States of America",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "33",
+    "total_north_sea_stake": "1.82%",
+    "equity_ranking": "18"
+  },
+  "CNR INTERNATIONAL": {
+    "parent_company": "Canadian Natural Resources Ltd",
+    "private_equity_backing": "No",
+    "parent_company_hq": "Canada",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "13",
+    "total_north_sea_stake": "1.64%",
+    "equity_ranking": "19"
+  },
+  "WALDORF PRODUCTION": {
+    "parent_company": "Endeavour International Corp",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United States of America",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "30",
+    "total_north_sea_stake": "1.55%",
+    "equity_ranking": "20"
+  },
+  "CNOOC INTERNATIONAL": {
+    "parent_company": "China, People's Republic of (Government)",
+    "private_equity_backing": "No",
+    "parent_company_hq": "Virgin Islands; British",
+    "parent_company_type": "SOE",
+    "number_of_licenses": "18",
+    "total_north_sea_stake": "1.24%",
+    "equity_ranking": "21"
+  },
+  "ONE-DYAS": {
+    "parent_company": "ONE Dyas BV",
+    "private_equity_backing": "No",
+    "parent_company_hq": "Netherlands",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "39",
+    "total_north_sea_stake": "0.97%",
+    "equity_ranking": "22"
+  },
+  "NORTH SEA NATURAL RESOURCES": {
+    "parent_company": "North Sea Natural Resources",
+    "private_equity_backing": "Yes",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "7",
+    "total_north_sea_stake": "0.92%",
+    "equity_ranking": "23"
+  },
+  "CALENERGY GAS HOLDINGS": {
+    "parent_company": "Berkshire Hathaway Inc",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United States of America",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "15",
+    "total_north_sea_stake": "0.88%",
+    "equity_ranking": "24"
+  },
+  "INEOS INDUSTRIES": {
+    "parent_company": "INEOS Ltd",
+    "private_equity_backing": "Yes",
+    "parent_company_hq": "Isle of Man",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "17",
+    "total_north_sea_stake": "0.87%",
+    "equity_ranking": "25"
+  },
+  "PARKMEAD GROUP PLC": {
+    "parent_company": "Parkmead Group PLC",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "9",
+    "total_north_sea_stake": "0.83%",
+    "equity_ranking": "26"
+  },
+  "HIBISCUS PETROLEUM": {
+    "parent_company": "Hibiscus Petroleum Bhd",
+    "private_equity_backing": "No",
+    "parent_company_hq": "Malaysia",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "9",
+    "total_north_sea_stake": "0.78%",
+    "equity_ranking": "27"
+  },
+  "IOG PLC": {
+    "parent_company": "Iog PLC",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "11",
+    "total_north_sea_stake": "0.72%",
+    "equity_ranking": "28"
+  },
+  "PETROGAS INTERNATIONAL": {
+    "parent_company": "Petrogas International BV",
+    "private_equity_backing": "No",
+    "parent_company_hq": "Netherlands",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "6",
+    "total_north_sea_stake": "0.61%",
+    "equity_ranking": "29"
+  },
+  "NEPTUNE E&P": {
+    "parent_company": "Neptune Energy Group Ltd",
+    "private_equity_backing": "Yes",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "11",
+    "total_north_sea_stake": "0.54%",
+    "equity_ranking": "30"
+  },
+  "PING PETROLEUM LIMITED": {
+    "parent_company": "Dagang NeXchange Bhd",
+    "private_equity_backing": "No",
+    "parent_company_hq": "Malaysia",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "6",
+    "total_north_sea_stake": "0.42%",
+    "equity_ranking": "31"
+  },
+  "WINTERSHALL B.V.": {
+    "parent_company": "BASF SE",
+    "private_equity_backing": "No",
+    "parent_company_hq": "Germany",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "5",
+    "total_north_sea_stake": "0.41%",
+    "equity_ranking": "32"
+  },
+  "PRAX GROUP": {
+    "parent_company": "PRAX Petroleum Ltd",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "3",
+    "total_north_sea_stake": "0.39%",
+    "equity_ranking": "33"
+  },
+  "JERSEY OIL AND GAS PLC": {
+    "parent_company": "Jersey Oil and Gas PLC",
+    "private_equity_backing": "No",
+    "parent_company_hq": "Jersey",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "6",
+    "total_north_sea_stake": "0.35%",
+    "equity_ranking": "34"
+  },
+  "HORIZON ENERGY PARTNERS": {
+    "parent_company": "Horizon Energy Partners LLC",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United States of America",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "3",
+    "total_north_sea_stake": "0.35%",
+    "equity_ranking": "35"
+  },
+  "KISTOS PLC": {
+    "parent_company": "Kistos Holdings Plc",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "12",
+    "total_north_sea_stake": "0.34%",
+    "equity_ranking": "36"
+  },
+  "ENERGEAN PLC": {
+    "parent_company": "Energean PLC",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "10",
+    "total_north_sea_stake": "0.32%",
+    "equity_ranking": "37"
+  },
+  "CENTRICA STORAGE HOLDINGS": {
+    "parent_company": "Centrica PLC",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "2",
+    "total_north_sea_stake": "0.26%",
+    "equity_ranking": "38"
+  },
+  "HARTSHEAD RESOURCES LTD": {
+    "parent_company": "Hartshead Resources NL",
+    "private_equity_backing": "No",
+    "parent_company_hq": "Australia",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "5",
+    "total_north_sea_stake": "0.26%",
+    "equity_ranking": "39"
+  },
+  "I3 ENERGY": {
+    "parent_company": "I3 Energy PLC",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "2",
+    "total_north_sea_stake": "0.23%",
+    "equity_ranking": "40"
+  },
+  "DELTIC ENERGY": {
+    "parent_company": "Deltic Energy PLC",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "4",
+    "total_north_sea_stake": "0.18%",
+    "equity_ranking": "41"
+  },
+  "CORNERSTONE OIL AND GAS LTD": {
+    "parent_company": "Cornerstone Oil and Gas Ltd",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "5",
+    "total_north_sea_stake": "0.18%",
+    "equity_ranking": "42"
+  },
+  "BRIDGE PETROLEUM GROUP": {
+    "parent_company": "Bridge Petroleum Ltd",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "2",
+    "total_north_sea_stake": "0.16%",
+    "equity_ranking": "43"
+  },
+  "DNO NORTH SEA": {
+    "parent_company": "Dno ASA",
+    "private_equity_backing": "Yes",
+    "parent_company_hq": "Norway",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "3",
+    "total_north_sea_stake": "0.15%",
+    "equity_ranking": "44"
+  },
+  "GAZPROM INTERNATIONAL": {
+    "parent_company": "Russian Federation",
+    "private_equity_backing": "No",
+    "parent_company_hq": "Russia",
+    "parent_company_type": "SOE",
+    "number_of_licenses": "5",
+    "total_north_sea_stake": "0.14%",
+    "equity_ranking": "45"
+  },
+  "ORCADIAN ENERGY": {
+    "parent_company": "Orcadian Energy PLC",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "1",
+    "total_north_sea_stake": "0.13%",
+    "equity_ranking": "46"
+  },
+  "RAPID OIL PRODUCTION": {
+    "parent_company": "Rapid Oil Production Ltd",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "1",
+    "total_north_sea_stake": "0.13%",
+    "equity_ranking": "47"
+  },
+  "STAR ENERGY GROUP PLC": {
+    "parent_company": "NA",
+    "private_equity_backing": "No",
+    "parent_company_hq": "NA",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "1",
+    "total_north_sea_stake": "0.13%",
+    "equity_ranking": "48"
+  },
+  "EVERARD ENERGY": {
+    "parent_company": "Everard Energy Ltd",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "4",
+    "total_north_sea_stake": "0.11%",
+    "equity_ranking": "49"
+  },
+  "CHEVRON CORPORATION": {
+    "parent_company": "Chevron Corp",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United States of America",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "3",
+    "total_north_sea_stake": "0.10%",
+    "equity_ranking": "50"
+  },
+  "FUJAIRAH INTERNATIONAL OIL & GAS": {
+    "parent_company": "Fujairah International Oil & Gas Corp",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Arab Emirates",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "2",
+    "total_north_sea_stake": "0.09%",
+    "equity_ranking": "51"
+  },
+  "FCM TRUST": {
+    "parent_company": "F.C.M. Ltd",
+    "private_equity_backing": "No",
+    "parent_company_hq": "Jersey",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "1",
+    "total_north_sea_stake": "0.07%",
+    "equity_ranking": "52"
+  },
+  "CONOCOPHILLIPS": {
+    "parent_company": "Conocophillips",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United States of America",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "1",
+    "total_north_sea_stake": "0.06%",
+    "equity_ranking": "53"
+  },
+  "ARDENT OIL": {
+    "parent_company": "Ardent Oil Ltd",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "3",
+    "total_north_sea_stake": "0.05%",
+    "equity_ranking": "54"
+  },
+  "JAPAN PETROLEUM EXPLORATION CO.": {
+    "parent_company": "Japan Petroleum Exploration Co Ltd",
+    "private_equity_backing": "No",
+    "parent_company_hq": "Japan",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "2",
+    "total_north_sea_stake": "0.04%",
+    "equity_ranking": "55"
+  },
+  "SOLITON RESOURCES LIMITED": {
+    "parent_company": "Soliton Resources Ltd",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "2",
+    "total_north_sea_stake": "0.04%",
+    "equity_ranking": "56"
+  },
+  "SOJITZ CORPORATION": {
+    "parent_company": "Sojitz Corp",
+    "private_equity_backing": "No",
+    "parent_company_hq": "Japan",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "3",
+    "total_north_sea_stake": "0.04%",
+    "equity_ranking": "57"
+  },
+  "ABAN OFFSHORE": {
+    "parent_company": "Aban Offshore Ltd",
+    "private_equity_backing": "Yes",
+    "parent_company_hq": "India",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "2",
+    "total_north_sea_stake": "0.03%",
+    "equity_ranking": "58"
+  },
+  "EUROPA OIL AND GAS": {
+    "parent_company": "Europa Oil & Gas (Holdings) PLC",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "PLC",
+    "number_of_licenses": "1",
+    "total_north_sea_stake": "0.03%",
+    "equity_ranking": "59"
+  },
+  "NOBEL UPSTREAM": {
+    "parent_company": "Nobel Oil E&P (UK) Ltd",
+    "private_equity_backing": "No",
+    "parent_company_hq": "United Kingdom",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "2",
+    "total_north_sea_stake": "0.02%",
+    "equity_ranking": "60"
+  },
+  "HEYCO ENERGY GROUP": {
+    "parent_company": "NA",
+    "private_equity_backing": "Yes",
+    "parent_company_hq": "NA",
+    "parent_company_type": "LTD",
+    "number_of_licenses": "1",
+    "total_north_sea_stake": "0.01%",
+    "equity_ranking": "61"
+  }
+}

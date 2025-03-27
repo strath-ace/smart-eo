@@ -1,0 +1,9 @@
+venv
+__pycache__
+
+DL_FIRE_J1V*
+DL_FIRE_J2V*
+DL_FIRE_SV*
+
+*.png
+*.csv
