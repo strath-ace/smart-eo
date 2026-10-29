@@ -1,8 +1,12 @@
+.venv
 venv
-__pycache__
+*__pycache__
 
-PROCESSED_DATA
+RAW
+PROCESSED
 
 .env
 
-results/rigs
+*rigs
+
+*.zip
